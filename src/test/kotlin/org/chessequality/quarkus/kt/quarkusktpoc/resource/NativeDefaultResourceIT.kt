@@ -1,4 +1,4 @@
-package org.chessequality.quarkus.kt.quarkusktpoc
+package org.chessequality.quarkus.kt.quarkusktpoc.resource
 
 import io.quarkus.test.junit.SubstrateTest
 
